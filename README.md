@@ -23,8 +23,8 @@ Separates the collected data according to categories and writes (json or csv) to
 ### How to Works ?
 
 - Clone or Download Repo
-- pip install -r requirements.txt
-- Run "Hunt.py"
+- Run __pip install -r requirements.txt__
+- Run "Hunt.py" (__python Hunt.py__)
 
 ![api key](ScreenShots/works.PNG)
 
