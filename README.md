@@ -11,6 +11,7 @@ Separates the collected data according to categories and writes (json or csv) to
 ### Requirements
 
 - You must have python3 on your computer
+- have requests and colorama modules
 - You must get API KEY by sign up to "https://otx.alienvault.com/".
 
 ![api key](ScreenShots/apikey.PNG)
